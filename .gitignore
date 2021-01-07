@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/src/main/resources/chromedriver.exe
+/target/
+/cucumberExamples.iml
+/demoSite/target/
+/shoppingSite/target/
+.idea/
